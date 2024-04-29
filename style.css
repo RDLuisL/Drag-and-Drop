@@ -144,6 +144,6 @@ body {
     cursor: pointer;
 }
 
-.upload-container . .uploaded-files .file .actions button:hover {
+.upload-container .uploaded-files .file .actions button:hover {
 background-color: #ddd;
 }
